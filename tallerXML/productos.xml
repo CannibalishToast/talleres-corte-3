@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Productos>
+    <Producto>
+        <Codigo>aa</Codigo>
+        <Nombre>aa</Nombre>
+        <Precio>2</Precio>
+        <Categoria>a</Categoria>
+    </Producto>
+</Productos>
